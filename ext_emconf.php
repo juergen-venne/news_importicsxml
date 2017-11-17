@@ -4,13 +4,12 @@ $EM_CONF[$_EXTKEY] = [
     'title' => 'Import of ICS & XML to EXT:news',
     'description' => 'Versatile news import from ICS + XML (local files or remote URLs) including images and category mapping',
     'category' => 'backend',
-    'author' => 'Georg Ringer',
-    'author_email' => 'georg.ringer@GeorgRinger.at',
+    'author' => 'Jürgen Venne',
+    'author_email' => 'venne@web.de',
     'state' => 'beta',
     'uploadfolder' => true,
     'createDirs' => '',
     'clearCacheOnLoad' => true,
-    'author_company' => 'ringer.it',
     'version' => '2.1.1',
     'constraints' =>
         [

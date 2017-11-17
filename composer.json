@@ -1,5 +1,5 @@
 {
-	"name": "georgringer/news-importicsxml",
+	"name": "juergen-venne/news-importicsxml",
 	"keywords": [
 		"TYPO3",
 		"extension",
@@ -10,9 +10,8 @@
 	],
 	"authors": [
 		{
-			"name": "Georg Ringer",
-			"role": "Developer",
-			"homepage": "http://ringer.it"
+			"name": "Jürgen Venne",
+			"role": "Developer"
 		}
 	],
 	"type": "typo3-cms-extension",
